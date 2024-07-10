@@ -15,7 +15,23 @@ body {
 .btn-custom {
   transition: transform 0.3s ease;
 }
+.para {
+  font-family: "Modern Antiqua", serif;
 
+  font-style: normal;
+  font-size: 2em;
+}
+.biro {
+  font-family: "Oswald", serif;
+  font-weight: 4em;
+  font-style: normal;
+  font-size: 4em;
+}
+.intro {
+  font-family: "Modern Antiqua", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 .btn-custom:hover {
   transform: scale(1.2);
 }
