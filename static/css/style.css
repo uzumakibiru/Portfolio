@@ -7,7 +7,7 @@ body {
   padding-right: 30px;
 }
 .btn-custom:hover {
-  color: #1b0249;
+  color: #f8b703;
 }
 .btn-custom {
   color: rgb(248, 240, 244);
@@ -36,7 +36,8 @@ body {
   transform: scale(1.2);
 }
 .nav-bg {
-  background-color: #5ab2ff;
+  /*background-color: #5ab2ff;*/
+  background-color: #04028d;
   border-radius: 0 0 20px 20px;
 }
 .bg-hero {
@@ -127,7 +128,7 @@ footer {
   border-radius: 20px 20px 0 0;
 }
 .footer {
-  background-color: #5ab2ff;
+  background-color: #04028d;
   color: white;
   padding: 20px 0;
 }
@@ -144,16 +145,16 @@ footer {
 }
 
 .footer .social-icons .fb:hover {
-  color: #2b0ae4;
+  color: #77a8f1;
 }
 .footer .social-icons .twitter:hover {
-  color: #060607;
+  color: #000008;
 }
 .footer .social-icons .instagram:hover {
   color: #f10e78;
 }
 .footer .social-icons .linkedin:hover {
-  color: #3e62a5;
+  color: #5e90ee;
 }
 
 .custom-shadow {
